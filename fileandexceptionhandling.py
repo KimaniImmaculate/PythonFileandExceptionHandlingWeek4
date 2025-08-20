@@ -20,7 +20,7 @@ def main():
         with open(output_file, 'w') as file:
             file.write(modified_content)
             
-        print(f"Content modified and saved to {output_file}")
+        print(f"SUCCESSFUL!! Content modified and saved to {output_file}")
         
     except FileNotFoundError:
         print(f"Error: The file '{input_file}' does not exist.")
