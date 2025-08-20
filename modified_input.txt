@@ -1,0 +1,6 @@
+hello. 
+my name is kimani.
+
+welcome to python programming
+this is a simple file content modifier
+have fun learning!
