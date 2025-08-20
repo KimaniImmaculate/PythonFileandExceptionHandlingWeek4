@@ -1,5 +1,5 @@
 hello. 
-my name is kimani.
+my name is kimani immaculate.
 
 welcome to python programming
 this is a simple file content modifier
